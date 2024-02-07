@@ -1,0 +1,22 @@
+.width-device {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.pet_img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+
+}
+
+.feed,
+.reset {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+}
